@@ -1,0 +1,1 @@
+dict = open("blurb.txt", "r+")
